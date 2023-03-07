@@ -13,4 +13,7 @@ avp 自动代客泊车相关收集
 
 ## 2.典型工作
 秦通 avp-slam
+ 综述  
+Surround-view Fisheye Camera Perception for Automated Driving: Overview, Survey & Challenges
+
 
