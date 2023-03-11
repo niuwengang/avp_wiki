@@ -1,6 +1,6 @@
 # avp_wiki
-avp Autonomous Valet Parking 自动代客泊车相关收集
-
+avp Autonomous Valet Parking 自动代客泊车  
+apa/avp相对容易落地实现，同时也是刚需，是一个比较有意思的事情，这里总结下一些收集的资料
 ## 1. 缩写及术语
 
 |  |  |  |  
