@@ -15,4 +15,4 @@ avp Autonomous Valet Parking 自动代客泊车
 [视频效果](https://www.zhihu.com/zvideo/1263625474993446912)  
 [论文地址](https://arxiv.org/abs/2007.01813)  
 [方案介绍](https://zhuanlan.zhihu.com/p/157340737)
-
+我的笔记:
