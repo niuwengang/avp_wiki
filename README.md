@@ -1,5 +1,5 @@
 # avp_wiki
-avp 自动代客泊车相关收集
+avp Autonomous Valet Parking 自动代客泊车相关收集
 
 ## 1. 缩写及术语
 
